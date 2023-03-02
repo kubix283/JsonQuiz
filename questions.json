@@ -1,0 +1,20 @@
+[
+    {
+        "questions": "Ile Max ma lat?",
+        "answers": [
+            10,
+            17,
+            34, 
+            50
+        ],
+        "right answers": "b"
+    }
+    {
+        "questions": "Czy pytania sa fajne",
+        "answers": [
+            "tak",
+            "nie",
+            "nie wiem"
+        ]
+    }
+]
